@@ -29,3 +29,10 @@
 ## Wireframe Type Used
 
 This project uses a **High-Fidelity Wireframe** to outline structure and navigation with detailed visuals.
+
+## Wireframing Tools
+
+**Figma** (Recommended): A web-based tool great for wireframing and real-time collaboration.  
+Other tools: Balsamiq (low-fidelity), Adobe XD, Sketch, Lucidchart.
+
+Figma is preferred for its simplicity, teamwork features, and reusable components.
