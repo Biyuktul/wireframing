@@ -28,4 +28,4 @@
 
 ## Wireframe Type Used
 
-This project uses a **Low-Fidelity Wireframe** to outline structure and navigation without detailed visuals.
+This project uses a **High-Fidelity Wireframe** to outline structure and navigation with detailed visuals.
