@@ -13,3 +13,19 @@
 - Navigation: How users navigate between different sections or pages. a navbar at top of a page.
 - Content Placment: Represents where contents like text, images, or videos will be placed. (e.g. showing a placeholders or dummy content.)
 - Functionality: Indicates interactive elements like buttons, menus, sliders, or forms, showing how users will interact with the interface.
+
+## Types of Wireframes
+
+### Low-Fidelity
+- Basic layout sketches with minimal detail.
+- Used early in design for quick planning and feedback.
+- Focuses on structure, not visuals.
+
+### High-Fidelity
+- Detailed mockups close to the final design.
+- Used later for client reviews and developer handoff.
+- Includes real content, spacing, and interactions.
+
+## Wireframe Type Used
+
+This project uses a **Low-Fidelity Wireframe** to outline structure and navigation without detailed visuals.
